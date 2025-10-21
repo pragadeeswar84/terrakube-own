@@ -43,6 +43,12 @@ The key features of Terrakube are:
 
 - **Remote Backend:** Terrakube supports both `remote backend` and `cloud` block so you can run your workflow directly from the Terraform / OpenTofu CLI.
 
+- **AI-Powered Module Management:** Leverage artificial intelligence to get intelligent module recommendations, automatic version updates, and optimization suggestions for your Terraform infrastructure. The AI features include:
+  - Smart module recommendations based on your workspace configuration
+  - Automated module version updates with compatibility analysis
+  - Infrastructure optimization suggestions for cost, performance, and security
+  - AI-powered analysis of breaking changes and migration paths
+
 ### Getting Started
 
 ### Installation
